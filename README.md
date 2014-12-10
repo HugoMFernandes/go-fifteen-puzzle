@@ -8,7 +8,7 @@ Note: I wrote this while learning Go's syntax and package structure, so the code
 Make sure you have both Git and Go installed and that your `$GOPATH` is defined.
 
 ### Dependencies
-You need to get [termbox] (used for rendering everything on the screen regardless of the platform).
+You need to get [termbox]
 
 ### Install command
 Get the package
